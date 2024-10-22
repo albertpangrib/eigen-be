@@ -3,7 +3,7 @@
 ## Requirements :
 ```
 1. Node JS (TypeScript)
-2. MongoDB
+2. MongoDBAtlas (Cloud)
 ```
 
 ## Preparation :

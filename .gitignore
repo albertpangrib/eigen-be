@@ -1,0 +1,16 @@
+eigen-be-betest-log/
+# depedencies
+/node_modules
+
+# production
+/build
+/dist
+/storage
+.env
+
+# misc
+DS_Store
+.package-lock.json
+
+package-lock.json
+seed/
